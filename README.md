@@ -1,2 +1,2 @@
 # Kotlin-Basics
-Learning Basics of Kotlin to build my own apps
+Learning Basics of Kotlin to build apps
